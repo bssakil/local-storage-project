@@ -1,0 +1,30 @@
+/*Reset Code Start*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/*Reset Code End*/
+.conteniner{
+    margin: 1rem;
+}
+
+select{
+    margin: 0 1rem 1rem 0;
+}
+
+main{
+    background-color: red;
+    font-size: 16px;
+}
+
+p{
+    margin: 1rem;
+    padding: 0.6rem;
+}
+
+button{
+    border: none;
+    border-radius: 0.6rem;
+    font-size: 1.1rem;
+}
